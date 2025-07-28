@@ -16,7 +16,7 @@
 
 3) NVIDIA GPU with a compatible CUDA toolkit (see [NVIDIA website](https://developer.nvidia.com/cuda-toolkit)).
 
-4) Dataset, which can be downloaded at https://pan.baidu.com/s/1zxmSiG3U_zlMzGwymMq1MQ with extraction code my3t.
+4) Dataset, which can be downloaded at https://pan.baidu.com/s/1nLvDrdR-5Q8dFNYYKAl2gA with extraction code u2hn.
 
 
 # Running the code:

@@ -1,8 +1,8 @@
-# Proactive Beamforming in mmWave V2I via Multi-Modal Feature Fusion Network (MMFF-Net)
+# Wideband Multi-User CSI Learning Using LE-CLN
 
  This simulation code package is mainly used to reproduce the results of the following paper [1]:
 
- __[1] H. Zhang, S. Gao, X. Cheng, and L. Yang, "Integrated Sensing and Communications towards Proactive Beamforming in mmWave V2I via Multi-Modal Feature Fusion (MMFF)," IEEE Trans. Wireless Commun., early access, doi: 10.1109/TWC.2024.3401686.__
+ __[1] H. Zhang, S. Gao, X. Cheng, and L. Yang, "Synesthesia of Machines (SoM)-Enhanced Wideband Multi-User CSI Learning With LiDAR Sensing," IEEE Transactions on Vehicular Technology, early access, doi: 10.1109/TVT.2025.3555130.__
 
  __If you use this simulation code package in any way, please cite the original paper [1] above.__
 
